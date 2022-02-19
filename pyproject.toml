@@ -6,6 +6,13 @@ authors = ["Iván Ortiz Martín <ivtransgruasortiz@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+requests = "^2.27.1"
+keras = "^2.8.0"
+matplotlib = "^3.5.1"
+numpy = "^1.22.2"
+pandas = "^1.4.1"
+seaborn = "^0.11.2"
+scikit-learn = "^1.0.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
